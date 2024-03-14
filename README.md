@@ -1,6 +1,6 @@
 # Currency-converter-cli
 
-Convert currencies through cli using public api for 
+Convert currencies through cli using public api to keep exchange rates up to date.
 
 
 cargo run AMOUNT FROM_CURRENCY TO_CURRENCY
